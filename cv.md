@@ -10,7 +10,7 @@
 
 **Discord:** belphoto
 
-**Webpage** <https://youreventphotojournalist.co.uk/>
+**Webpage:** <https://youreventphotojournalist.co.uk/>
 
 I want to change my current occupation and get a qualification in software development or web design. I like to conquer new heights (literally and figuratively) and feel constant personal progress. Excellent organisational and time management skills with a highly developed attention to detail and accuracy. An interest in visual culture, design history and its contemporary practitioners. An interest in independent learning and ambition to progress as a web designer or software developer. Other interests: trekking and Munro bagging, local history and nature exploring, travels, reading books, Art and Photography.
 
