@@ -28,10 +28,20 @@ I want to change my current occupation and get a qualification in software devel
 - Belarusian native
 - Russian native
 
-### Skills & Interests:
+### Skills:
 
 - Proficient using **Adobe Creative Cloud** products, particularly **Adobe Photoshop & Adobe Illustrator** with skills also in **Adobe Premiere Pro**; **CorelDRAW** vector graphics editor; **Xara Photo & Graphic Designer software**. Competent use of **MS Office / Office 365**.
+- HTML
+- CSS
+- JavaScript
 - Full clear Driving License
+
+### Code example:
+```
+function multiply(a, b) {
+  return a * b
+}
+```
 
 ### Work experience:
 
