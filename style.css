@@ -11,7 +11,7 @@
 .header {
     color: black;
     justify-content: center;
-    background-color:rgba(250, 159, 32, 0.8);
+    background-color:rgba(149,196,212,1);
 }
 
 .header-container, .header-navigation {
@@ -87,11 +87,11 @@ ul.skills li {
 .right-container {
     width: 75%;
     padding: 20px;
-    background-color:#d4a8b8;
+    background-color:#e5e5e5;
 }
 
 .aside-container {
-    background-color:#fbbc7c;
+    background-color:#bec9cc;
 
 }
 
@@ -108,7 +108,7 @@ ul.skills li {
     max-width: 1200px;
     background-color: brown;
     justify-content:space-between;
-    background-color:rgba(250, 159, 32, 0.8);
+    background-color:rgba(66,114,130,1);
 }
 
 .footer-logo-github {
